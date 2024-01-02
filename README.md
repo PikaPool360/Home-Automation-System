@@ -1,6 +1,6 @@
 # Project Title: Home Automation System with GSM Module
 
-##Abstract
+#Abstract
 
 This project was created as a prototype for our ECS project review.
 We wanted to craete a system to automate basic home appliances like lights and fans in an internet-less environment to help people who live in areas without good internet connections.
